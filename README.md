@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AveryHearstTV
+- 👀 I’m interested in KiteSurfing, Data Science/ Algorithms, and creative problem solving
+- 🌱 I’m currently working at Hearst Television as an Advertising Data Specialist, learning more about AdTech every day.
